@@ -1,0 +1,48 @@
+body{
+    background-color: coral;
+    margin:0px;
+}
+
+header{
+    background-color: rgb(228, 115, 9);
+    color: #fff;
+    height: 50px;
+    padding-top: 40px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+
+}
+h1{
+    margin:0px;
+}
+p{
+    text-align: center;
+}
+#principal{
+    width: 800px;
+    margin:auto;
+}
+figure{
+    background-color: #fff;
+    width: 300px;
+    margin:15px auto;
+    border: 1px solid rgb(221, 146, 6);
+    padding: 10px;
+
+}
+
+figure img {
+    width: 300px;
+}
+figcaption{
+    text-align:center;
+    font-style:italic;
+    padding: 5px;
+}
+footer{
+    background-color:rgb(10, 10, 10) ;
+    color:#fff;
+    height: 50px;
+    padding: 10px;
+    text-align: center;
+}
